@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey 👋 What's Up? I'm Damien Joseph Martin.
+  Hey 👋 What's Up? I'm Damien Joseph Martin
 </h1>
 <h3 align="center">
   Passionate about Cloud Engineering | DevOps Enthusiast
