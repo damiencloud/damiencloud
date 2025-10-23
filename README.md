@@ -1,4 +1,15 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">
+  Hey 👋 What's Up? I'm Damien Joseph Martin.
+</h1>
+<h3 align="center">
+  Passionate about Cloud Engineering | Automation & DevOps Enthusiast
+</h3>
+<p align="center">
+  I love building scalable and efficient cloud solutions, experimenting with serverless architectures, and tackling real-world challenges in cloud computing. Always eager to learn, share knowledge, and grow in the cloud field.
+</p>
+<p align="center">
+  💡 Interests: Cloud Architecture, DevOps, Infrastructure as Code, and Automation.
+</p>
 
 ###
 
