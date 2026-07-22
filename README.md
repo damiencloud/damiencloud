@@ -321,14 +321,6 @@
   <table border="0" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=damiencloud&show_icons=true&theme=github_dark&hide_border=true&title_color=FF9900&icon_color=FF9900&text_color=E6E6E6&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiencloud&layout=compact&theme=github_dark&hide_border=true&title_color=FF9900&text_color=E6E6E6&bg_color=0D1117" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
         <img src="https://streak-stats.demolab.com?user=damiencloud&theme=github-dark-blue&hide_border=true&fire=FF9900&ring=FF9900&currStreakNum=FF9900&background=0D1117" alt="GitHub Streak" width="100%" />
       </td>
       <td align="center" width="50%">
@@ -370,10 +362,6 @@
     <a href="https://github.com/damiencloud">
       <img src="https://readme-daily-quotes.vercel.app/api?authorColor=FF9900&quoteColor=F0F6FC&bg=0D1117" alt="Quote of the Day" />
     </a>
-  </p>
-
-  <p>
-    <b>Made with ❤️ by Damien Joseph Martin</b>
   </p>
 
 </div>
