@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://damiencloud.github.io" target="_blank">
+  <a href="https://port-folio-git-main-damienjosephmartin10-4415s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
@@ -255,14 +255,14 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <p>
         <a href="https://github.com/damiencloud/damiencloud.github.io" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github" alt="GitHub Repo" />
         </a>
         &nbsp;
-        <a href="https://damiencloud.github.io" target="_blank">
+        <a href="https://port-folio-git-main-damienjosephmartin10-4415s-projects.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Demo-FF9900?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo" />
         </a>
       </p>
